@@ -10,4 +10,6 @@
 - A literal is used to indicate a specific value. 
 - The process of turning an expression into an underlying data type is called evaluation
 - statement is a single command in a programming language
-x
+- Statements like the for loop are called control structures beacuse they control the execution of other parts 
+of the program
+
